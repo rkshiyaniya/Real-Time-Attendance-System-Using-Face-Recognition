@@ -18,3 +18,12 @@ Attendance System with the applixation of Face Recognition Using face_recognitio
 6. Make Entry of that person with Name & Current Time
 7. This project make sure not to make double entry, once attendance is done it'll not put entry in Excel sheet 2nd time
 
+## Screenshots
+
+* Directory Structure ...
+
+![Input](snapshots/directory_structure.jpg?raw=true)
+
+* CSV File ...
+
+![Output](snapshots/attendance_csv.jpg?raw=true)
